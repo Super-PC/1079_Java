@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.java"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.java.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.java.Abstraction"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Collections"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Datastructures"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Encapsulation"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Generics"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Inheritance"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Interfaces"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Javaa"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Javabasic"
+            android:label="@string/app_name" >
+            </activity>
+            
+            <activity
+            android:name="com.example.java.Main2"
+            android:label="@string/app_name" >
+            </activity>
+            
+           
+             <activity
+            android:name="com.example.java.Obj"
+            android:label="@string/app_name" >
+            </activity>
+            
+            <activity
+            android:name="com.example.java.Overriding"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Objoriented"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Packages"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Polymorphism"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Questions"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Serialization"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Javaadv"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Usefulres"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Quickguide"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Quickguide2"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Example"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Allexamples"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Exenv"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Quesenv1"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Quesenv2"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Quesenv3"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Quesenv4"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Quesenv5"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Quesenv6"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Quesenv7"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Quesenv8"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Quesenv9"
+            android:label="@string/app_name" >
+            </activity>
+            
+             <activity
+            android:name="com.example.java.Exstring"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exstring1"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exstring2"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exstring3"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exstring4"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exstring5"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exstring6"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exstring7"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exstring8"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exstring9"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exstring10"
+            android:label="@string/app_name" >
+            </activity>
+            
+              <activity
+            android:name="com.example.java.Exarray"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exarray1"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exarray2"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exarray3"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exarray4"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exarray5"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exarray6"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exarray7"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Exdate"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Exdate1"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Exdate2"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Exdate3"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Exdate4"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.Exdate5"
+            android:label="@string/app_name" >
+            </activity>
+            
+             <activity
+            android:name="com.example.java.Exmethod"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exmethod1"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exmethod2"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exmethod3"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exmethod4"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Exmethod5"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Quesfiles"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Quesfiles1"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Quesfiles2"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Quesfiles3"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Quesfiles4"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Quesfiles5"
+            android:label="@string/app_name" >
+            </activity>
+            
+              <activity
+            android:name="com.example.java.Quesdic"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Quesdic1"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Quesdic2"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Quesdic3"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Quesdic4"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.Quesdic5"
+            android:label="@string/app_name" >
+            </activity>
+            
+             <activity
+            android:name="com.example.java.Quesexcp"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.quesexcp1"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.quesexcp2"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.quesexcp3"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.quesexcp4"
+            android:label="@string/app_name" >
+            </activity>
+            
+             <activity
+            android:name="com.example.java.quesjdbc"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.quesjdbc1"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.quesjdbc2"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.quesjdbc3"
+            android:label="@string/app_name" >
+            </activity>
+            
+             <activity
+            android:name="com.example.java.quesreg"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.quesreg1"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.quesreg2"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.quesreg3"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.quesreg4"
+            android:label="@string/app_name" >
+            </activity>
+            
+              <activity
+            android:name="com.example.java.javaoverview"
+            android:label="@string/app_name" >
+            </activity>
+            
+             <activity
+            android:name="com.example.java.syntax"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.objclasses"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.datatypes"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.envsetup"
+            android:label="@string/app_name" >
+            </activity>
+            
+              <activity
+            android:name="com.example.java.javavariabletype"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.modifier"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.operators"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.loop"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.decision"
+            android:label="@string/app_name" >
+            </activity>
+            
+              <activity
+            android:name="com.example.java.numbers"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.characters"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.strings"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.array"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.datetime"
+            android:label="@string/app_name" >
+            </activity>
+            
+              <activity
+            android:name="com.example.java.regularexp"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.methods"
+            android:label="@string/app_name" >
+            </activity>
+             
+             <activity
+            android:name="com.example.java.exceptions"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.builtin"
+            android:label="@string/app_name" >
+            </activity>
+            
+              <activity
+            android:name="com.example.java.acc"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.nonacc"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.relexm"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.assignexm"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.opexm"
+            android:label="@string/app_name" >
+            </activity>
+            <activity
+            android:name="com.example.java.bitexm"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.logiexm"
+            android:label="@string/app_name" >
+            </activity>
+             <activity
+            android:name="com.example.java.About"
+            android:label="@string/app_name" >
+            </activity>
+            
+            <activity
+            android:name="com.example.java.SiteMap"
+            android:label="@string/app_name" >
+            </activity>
+            
+            
+            <activity
+            android:name="com.example.java.contact"
+            android:label="@string/app_name" >
+            </activity>
+            
+            <activity
+            android:name="com.example.java.Vid"
+            android:label="@string/app_name" >
+            </activity>
+            
+    </application>
+
+</manifest>
